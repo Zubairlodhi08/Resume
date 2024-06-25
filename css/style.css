@@ -1225,7 +1225,7 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: #00023D;
+  background: #253a4c;
 }
 
 @media (max-width: 767px) {
@@ -2027,7 +2027,7 @@ h3 {
   background-repeat: no-repeat;
   position: relative;
   padding: 106px 0 120px 0;
-  background: #00023D;
+  background: #253a4c;
   overflow: hidden;
 }
 
@@ -2425,7 +2425,7 @@ h3 {
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_download.scss */
 .download_area {
   padding: 110px 0 90px 0;
-  background: #00023D;
+  background: #253a4c;
 }
 
 @media (max-width: 767px) {
@@ -2505,7 +2505,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_products_details.scss */
 .projects_details_area {
-  background: #00023D;
+  background: #253a4c;
 }
 
 /* line 4, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_products_details.scss */
@@ -2575,7 +2575,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_gallery.scss */
 .gallery_area {
-  background: #00023D;
+  background: #253a4c;
   padding-top: 120px;
   padding-bottom: 120px;
 }
@@ -2970,14 +2970,14 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
 .service_area {
-  background: #00023D;
+  background: #253a4c;
   padding-bottom: 90px;
   padding-top: 120px;
 }
 
 /* line 5, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
 .service_area.colord_bg {
-  background: #00023D;
+  background: #253a4c;
 }
 
 /* line 11, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
@@ -3005,7 +3005,7 @@ h3 {
 
 /* line 30, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_service.scss */
 .service_products {
-  background: #00023D;
+  background: #253a4c;
   padding-top: 0px;
   padding-bottom: 60px;
 }
